@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@melvinasare](https://medium.com/@melvinasare)
 
-- 💬 Ask me about **Swift**
+- 💬 Ask me about **Swift, React Native or anything really, always open to a discussion and I love hearing about new things, gives me the opportunity to learn something new**
 
 - 📫 How to reach me **melvinasare@gmail.com**
 
