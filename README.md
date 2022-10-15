@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **melvinasare@gmail.com**
 
-- 📄 Know about my experiences [https://melvinasare1.github.io/resume/](https://melvinasare1.github.io/resume/)
+- 📄 Know about my experiences [https://melvinasare1.github.io/resume/](https://melvinasare1.github.io/Resume/)
 
 - ⚡ Fun fact **I can solve a rubix cube, not the quickest in the world but i can do it within a solid 2 mins! https://www.instagram.com/p/B71ZSwIJJn_/**
 
